@@ -5,7 +5,7 @@
  [Jie Chen](https://jchenhkg.github.io/)<sup>1</sup> <br>
  <sup>1</sup>Department of Computer Science, Hong Kong Baptist University  
 
-### [Code (coming)]() | [Paper]() 
+### [Paper]() 
 
 <br>
 
